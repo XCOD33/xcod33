@@ -46,7 +46,7 @@ Hi there, I'm **Rico Aditya**, a **Informatics student** 🚀 from Yogyakarta, I
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcod33&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rico Aditya Most Used Languages">
 <img src="https://github-readme-stats.vercel.app/api?username=xcod33&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Rico Aditya GitHub Stats">
 
-**I once solved the world's oldest question with a single line of Python:**
+**I once solved the world's oldest question with a single line of Javascript:**
 
 ```javascript
 // Which came first: the chicken or the egg?
