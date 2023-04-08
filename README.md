@@ -25,7 +25,7 @@ Hi there, I'm **Rico Aditya**, a **Informatics student** 🚀 from Yogyakarta, I
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [rico@ricoaditya.my.id](mailto:rico@ricoaditya.my.id).
-- 📝 See my [Curriculum Vitae](ricoaditya.my.id) to get more info.
+- 📝 See my [Curriculum Vitae](https://ricoaditya.my.id) to get more info.
 
 **Languages and Tools:**
 
