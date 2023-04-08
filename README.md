@@ -45,7 +45,7 @@ Hi there, I'm **Rico Aditya**, a **Informatics student** 🚀 from Yogyakarta, I
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcod33&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rico Aditya Most Used Languages">
 <img src="https://github-readme-stats.vercel.app/api?username=xcod33&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Rico Aditya GitHub Stats">
-<img src="https://wakatime.com/share/@09de135e-ccff-42aa-9e2a-bdff207377b4/df0d0df2-ccfc-4942-888c-562f18b3dacd.svg" width="465" alt="Rico Aditya Waka Time Stats">
+<img src="https://wakatime.com/share/@09de135e-ccff-42aa-9e2a-bdff207377b4/a290f275-b843-45df-8209-e1a63be1c8de.svg" width="465" alt="Rico Aditya Waka Time Stats">
 
 **I once solved the world's oldest question with a single line of Javascript:**
 
