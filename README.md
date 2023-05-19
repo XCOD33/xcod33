@@ -14,16 +14,16 @@
 <br />
 <br />
 
-Hi there, I'm **Rico Aditya**, a **Informatics student** 🚀 from Yogyakarta, Indonesia.
+Hi there, I'm **Rico Aditya**, an **Informatics student** 🚀 from Yogyakarta, Indonesia.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
 - 🌱 I'm currently exploring Android and Machine Learning.
-- 🤔 My interests are web-automation, web developing, android developing and developing some useful and cool stuff xD
+- 🤔 My interests are web-automation, web development, android development and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about anything, I'd love to answer!
 - 📫 Email me at [rico@ricoaditya.my.id](mailto:rico@ricoaditya.my.id).
 - 📝 See my [Curriculum Vitae](https://ricoaditya.my.id) to get more info.
 
